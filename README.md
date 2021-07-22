@@ -4,10 +4,10 @@ Unlock Android Phone/Redmi 6a Micloud &amp; FRP
 Need tools :
 Note : Disable driver signature at first (Windows x64 version)
 
-- Mediatek Driver       : https://www.androidfilehost.com/?fid=14943124697586371705
-- SP Flash Tool V5.1924 : https://spflashtool.com/download/
-- LibUSB Win32          : https://sourceforge.net/projects/libusb-win32/files/libusb-win32-releases/1.2.6.0/
-- Mediatek Auth Bypass  : https://www.softwarecrackguru.com/2021/05/mtksecbootdisablev100r001-mtk-secure.html
+- Mediatek Driver       
+- SP Flash Tool V5.1924
+- LibUSB Win32        
+- Mediatek Auth Bypass 
 
 Step :
 Important! **Disable driver signature**
