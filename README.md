@@ -24,7 +24,7 @@ Important! **Disable driver signature**
 11. Click start and Done. Enjoy!
 
 
-Step 2 (if hang logo or system destroyed)
+Step 2 (**if hang logo or system destroyed**)
 1. Load scatter from Scatter-loading file, choose **MT6765_Android_scatter.txt**
 2. Open MTKSecboot Disable, Click **Disable Secure Boot**
 3. After MTKSecboot confirm disable **MTK Secure Bypass Success**, Go back to SP Flash tool
