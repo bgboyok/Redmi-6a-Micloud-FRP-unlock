@@ -22,7 +22,8 @@ Important! **Disable driver signature**
 9. Open **Format** Tab, choose **Manual Format Flash**
 10. At begin address [HEX] : 0xf000000 (copy that address) and at Format Length [HEX] : 0x4000000 (copy that address) <<< (That source address from scatter)
 11. Click start and Done. Enjoy!
-=========================================================================================================================================================================
+
+
 Step 2 (if hang logo or system destroyed)
 1. Load scatter from Scatter-loading file, choose **MT6765_Android_scatter.txt**
 2. Open MTKSecboot Disable, Click **Disable Secure Boot**
