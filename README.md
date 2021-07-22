@@ -8,7 +8,7 @@ Need tools :
 - LibUSB Win32        
 - Mediatek Auth Bypass 
 
-Step :
+Step 1 :
 Important! **Disable driver signature**
 
 1. Install Mediatek driver
@@ -22,3 +22,11 @@ Important! **Disable driver signature**
 9. Open **Format** Tab, choose **Manual Format Flash**
 10. At begin address [HEX] : 0xf000000 (copy that address) and at Format Length [HEX] : 0x4000000 (copy that address) <<< (That source address from scatter)
 11. Click start and Done. Enjoy!
+=========================================================================================================================================================================
+Step 2 (if hang logo or system destroyed)
+1. Load scatter from Scatter-loading file, choose **MT6765_Android_scatter.txt**
+2. Open MTKSecboot Disable, Click **Disable Secure Boot**
+3. After MTKSecboot confirm disable **MTK Secure Bypass Success**, Go back to SP Flash tool
+4. Click download
+5. Turn off your phone, after that press and hold volume up and down (do simultaneously)
+6. After flash, wait for 10 minutes to Language Screen, and no need step Micloud & FRP again. Done and enjoy! 
