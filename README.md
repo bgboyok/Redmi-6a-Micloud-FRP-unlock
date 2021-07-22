@@ -2,7 +2,6 @@
 Unlock Android Phone/Redmi 6a Micloud &amp; FRP
 
 Need tools :
-Note : Disable driver signature at first (Windows x64 version)
 
 - Mediatek Driver       
 - SP Flash Tool V5.1924
