@@ -21,5 +21,5 @@ Important! **Disable driver signature**
 7. Turn off your phone, after that press and hold volume up and down (do simultaneously)
 8. After MTKSecboot confirm disable **MTK Secure Bypass Success**, Go back to SP Flash tool
 9. Open **Format** Tab, choose **Manual Format Flash**
-10. At begin address [HEX] : 0xf000000 (copy that address) and at Format Length [HEX] : 0x4000000 <<< (That source address from scatter)
+10. At begin address [HEX] : 0xf000000 (copy that address) and at Format Length [HEX] : 0x4000000 (copy that address) <<< (That source address from scatter)
 11. Click start and Done. Enjoy!
